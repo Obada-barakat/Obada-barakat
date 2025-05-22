@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Obada-barakat
 - 👀 I’m interested in developing front end websites
-- 🌱 I’m currently learning javascript to try to be better
 - 💞️ I’m looking to collaborate on creating a great website
 - 📫 get in touch on: obada.baracat1@gmail.com
 
