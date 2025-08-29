@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Obada-barakat
+- 👋 Hi, I’m @Obada
 - 👀 I’m interested in developing front end websites
 - 💞️ I’m looking to collaborate on creating a great website
 - 📫 get in touch on: obada.baracat1@gmail.com
