@@ -23,7 +23,7 @@ I'm a **Frontend Developer** specializing in **React.js**, passionate about buil
 ---
 
 ### 🌍 Connect With Me
-- 💼 [LinkedIn](www.linkedin.com/in/ubba-obada)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ubba-obada/)
 - 🧠 [CodePen](https://codepen.io/P-obada)
 - 📧 Email: obada.baracat1@gmail.com
 
